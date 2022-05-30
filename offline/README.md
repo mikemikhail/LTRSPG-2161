@@ -1,10 +1,10 @@
 # ML-anomaly_detection-demo
 
-This Repo is to accompany the Cisco Live HOLSPG-2400 lab sessions.
+This Repo is to accompany the Cisco Live LTRSPG-2161 lab sessions.
 
 First clone the repo with 
 
-$ git clone https://github.com/mikemikhail/HOLSPG-2400/
+$ git clone https://github.com/mikemikhail/LTRSPG-2161/
 
 Install the requirements:
 
